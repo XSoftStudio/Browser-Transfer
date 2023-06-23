@@ -19,13 +19,13 @@ Chromiun based browser such as Google Chrome
 
 ## Screenshots
 <p align="center">
-<img src="Screenshot/1.png" alt="Browser Transfer White Theme" width="300" /> 
-<img src="Screenshot/2.png" alt="Browser Transfer White Theme" width="300" /> 
-<img src="Screenshot/3.png" alt="Browser Transfer White Theme" width="300" /> 
+<img src="Screenshot/1.PNG" alt="Browser Transfer White Theme" width="300" /> 
+<img src="Screenshot/2.PNG" alt="Browser Transfer White Theme" width="300" /> 
+<img src="Screenshot/3.PNG" alt="Browser Transfer White Theme" width="300" /> 
 </p>
 <p align="center">
- <img src="Screenshot/4.png" alt=" Browser Transfer Black Theme" width="300" />
- <img src="Screenshot/5.png" alt=" Browser Transfer Black Theme" width="300" />
+ <img src="Screenshot/4.PNG" alt=" Browser Transfer Black Theme" width="300" />
+ <img src="Screenshot/5.PNG" alt=" Browser Transfer Black Theme" width="300" />
 </p>
 
 ## Installation
