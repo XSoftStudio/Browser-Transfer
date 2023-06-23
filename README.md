@@ -33,7 +33,7 @@ Chromiun based browser such as Google Chrome
 [Visit Microsoft store websites](https://www.microsoft.com/store/apps/9PP4M2NK8PC8)  or Get it from Microsoft Store **ms-windows-store://pdp/?productid=9PP4M2NK8PC8**: 
 
 <p align="center">
-	<a href="https://www.microsoft.com/store/apps/9PFS0G06NB3V">
+	<a href="https://www.microsoft.com/store/apps/9PP4M2NK8PC8">
 		<img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge' width="150" />
 	</a>
 </p>
